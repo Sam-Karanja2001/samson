@@ -1,0 +1,185 @@
+SE_Day1_Assignment
+
+Part 1: Introduction to Software Engineering
+
+1. Explain what software engineering is and discuss its importance in the technology industry.
+
+Software engineering is a branch of computer science used for developing, testing, and maintaining software.
+
+Reliability – Ensures software performs as expected without bias, especially for critical applications like healthcare and finance.
+
+Efficiency – Optimizes developer workflow while maintaining high-quality standards.
+
+Scalability and Flexibility – Ensures that the system can handle an increased load without affecting performance.
+
+Security – Implements protection practices like authentication, authorization, and encryption to secure user information.
+
+
+2. Identify and describe at least three key milestones in the evolution of software engineering.
+
+Mastering Complexity – The need for structured programming and methodologies to manage complex systems.
+
+Mastering Process – The introduction of Software Development Life Cycle (SDLC) methodologies like Waterfall and Agile.
+
+Mastering Machines – Advances in hardware and cloud computing enabled new possibilities, including distributed systems and AI-driven development.
+
+
+3. List and briefly explain the phases of the Software Development Life Cycle (SDLC).
+
+Planning – Identify the software requirements, purpose, and scope.
+
+Requirement Analysis – Identify and document user specifications.
+
+Design – Build the architectural framework.
+
+Coding – Convert the software design into functional code.
+
+Testing – Examine the software for any bugs and glitches.
+
+
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall Methodology
+
+Linear and sequential – each phase is completed before moving to the next.
+
+Low flexibility – changes are difficult to incorporate once a phase is complete.
+
+Customer feedback comes late – only after the product is developed.
+
+Testing is done at the end of the development process.
+Example: Best suited for projects with well-defined requirements, such as government or legal systems.
+
+
+Agile Methodology
+
+Iterative and incremental – multiple cycles (sprints).
+
+High flexibility – adapts to changing requirements.
+
+Regular customer feedback is incorporated at every sprint.
+
+Testing is continuous after each iteration.
+Example: Best for fast-changing environments, such as mobile app development.
+
+
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Software Developer
+
+Develops applications, programs, and systems using programming languages and frameworks.
+
+Maintains and updates software.
+
+Collaborates with other team members to ensure best practices.
+
+Reports progress to the project manager.
+
+
+Quality Assurance Engineer
+
+Understands and clarifies software requirements with stakeholders.
+
+Develops testing standards and procedures.
+
+Confirms that the software meets requirements before deployment.
+
+Identifies bugs and suggests improvements.
+
+Automates testing using open-source tools.
+
+
+Project Manager
+
+Leads the software development team.
+
+Discusses project requirements with clients and developers.
+
+Creates a blueprint for the project.
+
+Tracks project milestones and communicates progress.
+
+Oversees deployment and monitors software performance.
+
+
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+Integrated Development Environments (IDEs)
+
+Example: Visual Studio Code (VSCode)
+Importance:
+
+Helps structure code correctly with syntax highlighting and auto-completion.
+
+Formats code for readability and provides instant feedback on errors.
+
+Automates compiling, unit testing, and debugging to improve productivity.
+
+
+Version Control Systems (VCS)
+
+Example: Git
+Importance:
+
+Collaboration – Enables multiple developers to work on the same codebase.
+
+Change Tracking – Keeps a detailed history of code modifications.
+
+Branching and Merging – Allows parallel development of new features.
+
+Error Recovery – Enables reverting to previous versions if issues arise.
+
+
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+Rapid Technological Advancement – Continuous learning and using agile methodologies.
+
+Time Constraints – Agile workflows (e.g., Scrum) to divide tasks into manageable sprints.
+
+Limited Infrastructure – Investing in high-performance tools and cloud computing.
+
+Changing Software Requirements – Adopting modular design and iterative development.
+
+Security Risks – Implementing encryption, authentication, and threat mitigation strategies.
+
+Usability Issues – Prioritizing user-friendly design and accessibility.
+
+
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit Testing – Tests individual components to ensure functionality.
+
+Integration Testing – Checks interactions between different modules.
+
+System Testing – Verifies overall software performance and compliance with requirements.
+
+Acceptance Testing – Confirms the software meets user needs before deployment.
+
+
+Part 2: Introduction to AI and Prompt Engineering
+
+1. Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt engineering is the process of crafting instructions to guide AI models in generating desired outputs.
+
+Importance:
+
+Improved User Experience – Ensures relevant responses on the first attempt.
+
+Increased Flexibility – Helps AI adapt to different contexts.
+
+Developer Control – Enhances accuracy by refining AI interactions.
+
+
+2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: "Draw a picture of a person."
+Improved Prompt: "Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background."
+
+Why is the improved prompt better?
+
+Clarity – Specifies what is needed (a full-body portrait).
+
+Specific Details – Describes appearance (hair color, clothing) and setting (park, trees, sunny day).
+
+Conciseness – Provides clear guidance without unnecessary complexity.
